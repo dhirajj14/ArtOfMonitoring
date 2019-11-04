@@ -1,0 +1,8 @@
+#packer 
+*.vdi
+*.box
+.vagrant/
+*console.log
+*.iso
+*.iso.lock
+gitclone.sh
