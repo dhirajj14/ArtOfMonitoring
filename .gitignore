@@ -6,4 +6,4 @@
 *.iso
 *.iso.lock
 gitclone.sh
-*\port\
+*port/
